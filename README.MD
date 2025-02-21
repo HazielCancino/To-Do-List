@@ -22,8 +22,8 @@ pip install tkinter tkcalendar plyer
 Usage
 Run the Application
 
-![Screenshot](assets/image1.png)
-![Screenshot](assets/image.png)
+![Screenshot](image1.png)
+![Screenshot](image.png)
 
 Add Tasks:
 Type your task in the task entry field.
