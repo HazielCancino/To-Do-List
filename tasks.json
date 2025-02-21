@@ -1,0 +1,47 @@
+{
+    "folders": {
+        "Default": [
+            {
+                "task": "restock inventory",
+                "completed": false,
+                "due_date": "2025-02-20",
+                "reminder": "2025-02-26 04:26",
+                "folder": "Default"
+            },
+            {
+                "task": "go out with friends",
+                "completed": false,
+                "due_date": "2025-02-20",
+                "reminder": null,
+                "folder": "Default"
+            },
+            {
+                "task": "Sleep 8 hours",
+                "completed": false,
+                "due_date": "2025-02-20",
+                "reminder": null,
+                "folder": "Default"
+            }
+        ],
+        "store assignments": [],
+        "store": [],
+        "social": [
+            {
+                "task": "go out",
+                "completed": false,
+                "due_date": "2025-02-20",
+                "reminder": null,
+                "folder": "social"
+            }
+        ],
+        "school": [
+            {
+                "task": "finish main code and sql database",
+                "completed": false,
+                "due_date": "2025-02-20",
+                "reminder": null,
+                "folder": "school"
+            }
+        ]
+    }
+}
